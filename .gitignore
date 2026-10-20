@@ -1,0 +1,12 @@
+# build artifacts
+build/
+talkterm
+
+# editor stuff
+*.swp
+*.swo
+*~
+.vscode/
+
+# OS files
+.DS_Store
