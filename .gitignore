@@ -1,12 +1,13 @@
 # build artifacts
 build/
 talkterm
+simpleterminal
 
 # editor stuff
+.vscode/
 *.swp
 *.swo
 *~
-.vscode/
 
-# OS files
+# OS
 .DS_Store
